@@ -1,0 +1,12 @@
+table{
+    width: 30%;
+    border-collapse: collapse;
+    border: black;
+}
+td,th{
+    text-align: center;
+    border: 1px solid black;
+}
+th{
+    color: olivedrab;
+    }
